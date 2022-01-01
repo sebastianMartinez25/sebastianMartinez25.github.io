@@ -1,0 +1,15 @@
+h1 {
+    color: #ff8000;
+    font-family:sans-serif;
+    margin: auto;
+    text-align: center;
+}
+p{
+    margin:auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form{
+    margin: auto;
+    text-align: center;
+}
